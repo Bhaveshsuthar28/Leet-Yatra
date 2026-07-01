@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0204-count-primes) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0204-count-primes) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Sliding Window
 |  |
@@ -94,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0179-largest-number) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
