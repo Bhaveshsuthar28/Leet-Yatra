@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0204-count-primes) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0128-longest-consecutive-sequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0128-longest-consecutive-sequence) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
