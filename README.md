@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0089-gray-code) |
 | [0204-count-primes](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0204-count-primes) |
 ## Number Theory
 |  |
@@ -116,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0089-gray-code) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
