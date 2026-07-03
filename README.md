@@ -18,9 +18,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0053-maximum-subarray) |
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0204-count-primes) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0191-number-of-1-bits) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3739-count-subarrays-with-majority-element-ii) |
