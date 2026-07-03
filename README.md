@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0053-maximum-subarray) |
+| [1191-k-concatenation-maximum-sum](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1191-k-concatenation-maximum-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3620-network-recovery-pathways](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3620-network-recovery-pathways) |
 ## Array
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0229-majority-element-ii) |
+| [1191-k-concatenation-maximum-sum](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1191-k-concatenation-maximum-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2404-most-frequent-even-element](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/2404-most-frequent-even-element) |
