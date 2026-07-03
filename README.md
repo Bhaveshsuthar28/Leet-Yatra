@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0005-longest-palindromic-substring) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1191-k-concatenation-maximum-sum](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1191-k-concatenation-maximum-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2404-most-frequent-even-element](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/2404-most-frequent-even-element) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3620-network-recovery-pathways) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
