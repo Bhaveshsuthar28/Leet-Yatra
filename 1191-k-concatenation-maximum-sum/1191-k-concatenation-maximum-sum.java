@@ -1,9 +1,8 @@
 class Solution {
-    private static final int mod = 1_000_000_007;
-
     public int kConcatenationMaxSum(int[] arr, int k) {
         long total = 0;
         long curr = 0, max1=0;
+        int mod = 1_000_000_007;
 
         for(int x : arr){
             curr = Math.max(0, curr+x);
