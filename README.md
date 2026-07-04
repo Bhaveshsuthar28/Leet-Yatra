@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0031-next-permutation) |
 | [0922-sort-array-by-parity-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0179-largest-number) |
