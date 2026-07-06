@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0089-gray-code) |
 | [0204-count-primes](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0204-count-primes) |
+| [0371-sum-of-two-integers](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0371-sum-of-two-integers) |
 ## Number Theory
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0089-gray-code) |
 | [0191-number-of-1-bits](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0371-sum-of-two-integers) |
 ## Topological Sort
 |  |
 | ------- |
