@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0031-next-permutation) |
 | [0922-sort-array-by-parity-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1191-k-concatenation-maximum-sum](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1191-k-concatenation-maximum-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1301-number-of-paths-with-max-score) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3620-network-recovery-pathways) |
 ## Array
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0179-largest-number) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -145,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0229-majority-element-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0922-sort-array-by-parity-ii) |
 | [1288-remove-covered-intervals](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
 | ------- |
@@ -163,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -181,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0371-sum-of-two-integers) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Topological Sort
 |  |
 | ------- |
