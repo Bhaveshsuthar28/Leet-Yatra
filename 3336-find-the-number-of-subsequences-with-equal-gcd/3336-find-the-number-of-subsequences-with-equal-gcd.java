@@ -1,27 +1,29 @@
 class Solution {
+    static final int MOD = 1000000007;
+
     public int subsequencePairCount(int[] nums) {
-        int MOD = 1000000007;
-        int mx = 0;
+        int max = 0;
+        for (int x : nums) max = Math.max(max, x);
 
-        for (int x : nums)
-            mx = Math.max(mx, x);
-
-        long[][] dp = new long[mx + 1][mx + 1];
+        long[][] dp = new long[max + 1][max + 1];
         dp[0][0] = 1;
 
         for (int x : nums) {
-            long[][] next = new long[mx + 1][mx + 1];
+            long[][] next = new long[max + 1][max + 1];
 
-            for (int g1 = 0; g1 <= mx; g1++) {
-                for (int g2 = 0; g2 <= mx; g2++) {
+            for (int g1 = 0; g1 <= max; g1++) {
+                for (int g2 = 0; g2 <= max; g2++) {
+                    if (dp[g1][g2] == 0) continue;
+
                     long cur = dp[g1][g2];
 
-                    if (cur == 0)
-                        continue;
-
                     next[g1][g2] = (next[g1][g2] + cur) % MOD;
-                    next[gcd(g1, x)][g2] = (next[gcd(g1, x)][g2] + cur) % MOD;
-                    next[g1][gcd(g2, x)] = (next[g1][gcd(g2, x)] + cur) % MOD;
+
+                    int ng1 = gcd(g1, x);
+                    next[ng1][g2] = (next[ng1][g2] + cur) % MOD;
+
+                    int ng2 = gcd(g2, x);
+                    next[g1][ng2] = (next[g1][ng2] + cur) % MOD;
                 }
             }
 
@@ -30,13 +32,19 @@ class Solution {
 
         long ans = 0;
 
-        for (int g = 1; g <= mx; g++)
+        for (int g = 1; g <= max; g++) {
             ans = (ans + dp[g][g]) % MOD;
+        }
 
         return (int) ans;
     }
 
-    private static int gcd(int a, int b) {
-        return a == 0 ? b : gcd(b % a, a);
+    private int gcd(int a, int b) {
+        while (a != 0) {
+            int t = b % a;
+            b = a;
+            a = t;
+        }
+        return b;
     }
 }
