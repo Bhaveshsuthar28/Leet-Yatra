@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0005-longest-palindromic-substring) |
 | [0179-largest-number](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0179-largest-number) |
+| [0227-basic-calculator-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0227-basic-calculator-ii) |
 | [0389-find-the-difference](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0389-find-the-difference) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0089-gray-code) |
 | [0204-count-primes](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0204-count-primes) |
+| [0227-basic-calculator-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0227-basic-calculator-ii) |
 | [0371-sum-of-two-integers](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0371-sum-of-two-integers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/2685-count-the-number-of-complete-components) |
+## Stack
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
