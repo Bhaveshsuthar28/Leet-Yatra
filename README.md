@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0005-longest-palindromic-substring) |
 | [0179-largest-number](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0179-largest-number) |
+| [0389-find-the-difference](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0389-find-the-difference) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0229-majority-element-ii) |
+| [0389-find-the-difference](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0389-find-the-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2404-most-frequent-even-element](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/2404-most-frequent-even-element) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0229-majority-element-ii) |
+| [0389-find-the-difference](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0389-find-the-difference) |
 | [0922-sort-array-by-parity-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0922-sort-array-by-parity-ii) |
 | [1288-remove-covered-intervals](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1331-rank-transform-of-an-array) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0389-find-the-difference) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Topological Sort
 |  |
