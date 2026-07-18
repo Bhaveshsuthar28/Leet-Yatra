@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1331-rank-transform-of-an-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2404-most-frequent-even-element](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/2404-most-frequent-even-element) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0227-basic-calculator-ii) |
 | [0371-sum-of-two-integers](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0371-sum-of-two-integers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3658-gcd-of-odd-and-even-sums) |
