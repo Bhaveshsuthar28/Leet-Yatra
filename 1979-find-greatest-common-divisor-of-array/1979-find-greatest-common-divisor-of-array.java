@@ -7,12 +7,12 @@ class Solution {
             if(num < min) min = num;
         }
 
-        return GCD(max , min);
-    }
+        while(min !=0){
+            int temp = max%min;
+            max=min;
+            min=temp;
+        }
 
-    public int GCD(int a , int b){
-        if(b == 0) return a;
-
-        return GCD(b, a % b);
+        return max;
     }
 }
