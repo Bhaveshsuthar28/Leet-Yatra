@@ -1,27 +1,35 @@
 class Solution {
-    public int uniqueXorTriplets(int[] nums) {
-        int n = nums.length;
-        if (n == 1) return 1;
-
-        HashSet<Integer> pairXor = new HashSet<>();
-        BitSet seen = new BitSet(2048);
+    public static int uniqueXorTriplets(int[] arr) {
+        int n = arr.length;
+        boolean[] freq = new boolean[2048];
+        int len = 0, idx = 0, ans = 0;
 
         for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-                pairXor.add(nums[i] ^ nums[j]);
+            for (int j = i; j < n; j++) {
+                if (!freq[arr[i] ^ arr[j]])
+                    len++;
+                freq[arr[i] ^ arr[j]] = true;
             }
         }
 
-        for (int x : pairXor) {
-            for (int num : nums) {
-                seen.set(x ^ num);
-            }
+        int[] nums = new int[len];
+
+        for (int i = 0; i < 2048; i++)
+            if (freq[i])
+                nums[idx++] = i;
+
+        Arrays.fill(freq, false);
+
+        for (int i = 0; i < len; i++) {
+            for (int j = 0; j < n; j++)
+                freq[nums[i] ^ arr[j]] = true;
         }
 
-        for (int num : nums) {
-            seen.set(num);
-        }
+        for (boolean b : freq)
+            if (b)
+                ans++;
 
-        return seen.cardinality();
+        return ans;
     }
+
 }
