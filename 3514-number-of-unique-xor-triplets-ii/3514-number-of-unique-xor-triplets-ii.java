@@ -1,5 +1,5 @@
 class Solution {
-    public static int uniqueXorTriplets(int[] arr) {
+    public int uniqueXorTriplets(int[] arr) {
         int n = arr.length;
         boolean[] freq = new boolean[2048];
         int len = 0, idx = 0, ans = 0;
