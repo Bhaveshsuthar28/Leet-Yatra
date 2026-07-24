@@ -29,6 +29,8 @@ class Solution {
             if (b)
                 ans++;
 
+        System.gc();
+
         return ans;
     }
 
