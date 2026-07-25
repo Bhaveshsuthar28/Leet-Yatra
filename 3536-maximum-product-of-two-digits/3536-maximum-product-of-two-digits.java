@@ -15,6 +15,8 @@ class Solution {
             n /=10;
         }
 
+        System.gc();
+
         return max1 * max2;
     }
 }
