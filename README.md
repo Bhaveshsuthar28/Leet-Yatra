@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0005-longest-palindromic-substring) |
 | [0179-largest-number](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0389-find-the-difference) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0389-find-the-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0628-maximum-product-of-three-numbers) |
 | [0922-sort-array-by-parity-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0922-sort-array-by-parity-ii) |
