@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0128-longest-consecutive-sequence) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0389-find-the-difference) |
