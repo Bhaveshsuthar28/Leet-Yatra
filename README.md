@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0229-majority-element-ii) |
 | [0494-target-sum](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0628-maximum-product-of-three-numbers) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0389-find-the-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1331-rank-transform-of-an-array) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0628-maximum-product-of-three-numbers) |
