@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0338-counting-bits) |
+| [0486-predict-the-winner](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0494-target-sum) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1191-k-concatenation-maximum-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1301-number-of-paths-with-max-score) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0229-majority-element-ii) |
+| [0486-predict-the-winner](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0628-maximum-product-of-three-numbers) |
 | [0922-sort-array-by-parity-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0922-sort-array-by-parity-ii) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0227-basic-calculator-ii) |
 | [0371-sum-of-two-integers](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0371-sum-of-two-integers) |
+| [0486-predict-the-winner](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -295,4 +298,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
