@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0494-target-sum) |
+| [0877-stone-game](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0877-stone-game) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1191-k-concatenation-maximum-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1301-number-of-paths-with-max-score) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0877-stone-game) |
 | [0922-sort-array-by-parity-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0922-sort-array-by-parity-ii) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1191-k-concatenation-maximum-sum) |
 | [1260-shift-2d-grid](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1260-shift-2d-grid) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3312-sorted-gcd-pair-queries) |
@@ -306,4 +309,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
