@@ -14,6 +14,8 @@ class Solution {
             }
         }
 
+        System.gc();
+
         return new int[]{-1, -1};
     }
 }
