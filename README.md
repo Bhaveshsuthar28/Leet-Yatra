@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0031-next-permutation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0922-sort-array-by-parity-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0217-contains-duplicate) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/3501-maximize-active-section-with-trade-ii) |
