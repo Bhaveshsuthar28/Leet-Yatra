@@ -4,21 +4,16 @@ class Solution {
         if(n == 0) return 0;
         if(n== 1) return 1;
 
-        int left = 0, right = 1 , index = 1;
+        int index = 1;
         int ans = 1;
 
-        while(right != n){
-            if(nums[left] == nums[right]){
-                right++;
-            }else{
-                nums[index] = nums[right];
+        for(int i=1; i<n;i++){
+            if(nums[i] != nums[i-1]){
+                nums[index] = nums[i];
                 index++;
-                left = right;
-                right++;
-                ans++;
             }
         }
 
-        return ans;
+        return index;
     }
 }
