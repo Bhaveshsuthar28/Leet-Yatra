@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0494-target-sum) |
+| [0788-rotated-digits](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1140-stone-game-ii) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1191-k-concatenation-maximum-sum) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0628-maximum-product-of-three-numbers) |
+| [0788-rotated-digits](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Bhaveshsuthar28/Leet-Yatra/tree/master/1406-stone-game-iii) |
